@@ -1,0 +1,14 @@
+interface:
+  display_name: 跨境私域项目挖掘
+  short_description: 从用户行为链挖项目，并调研 TikTok 竞争度与变现空位
+  default_prompt: 使用 $mine-cross-border-private-projects 为我挖掘一个高利润跨境私域项目，并重点分析 TikTok
+    竞争度。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
