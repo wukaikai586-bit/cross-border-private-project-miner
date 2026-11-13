@@ -19,13 +19,11 @@ mine-cross-border-private-projects/
 
 ## 方法一：ChatGPT 上传 ZIP
 
-1. 打开仓库右侧的 **Releases**。
-2. 进入最新版本。
-3. 下载名称类似 `mine-cross-border-private-projects-v1.0.0.zip` 的附件。
-4. 在 ChatGPT 中打开 **Plugins → Skills**。
-5. 选择 **Create → Upload from computer**。
-6. 上传 ZIP。
-7. 查看 Skill 名称、说明和文件列表，确认来源可信后安装。
+1. 下载 [v1.0.0 安装包](../dist/mine-cross-border-private-projects-v1.0.0.zip)。
+2. 在 ChatGPT 中打开 **Plugins → Skills**。
+3. 选择 **Create → Upload from computer**。
+4. 上传 ZIP。
+5. 查看 Skill 名称、说明和文件列表，确认来源可信后安装。
 
 安装完成后，在输入框输入 `@`，选择“跨境私域项目挖掘”。
 
