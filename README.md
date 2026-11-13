@@ -18,7 +18,7 @@
 
 ### ChatGPT
 
-1. 从 GitHub Releases 下载最新的 `mine-cross-border-private-projects-v*.zip`。
+1. 下载 [v1.0.0 安装包](dist/mine-cross-border-private-projects-v1.0.0.zip)。
 2. 打开 ChatGPT 侧边栏的 **Plugins → Skills**。
 3. 选择 **Create → Upload from computer**。
 4. 上传 ZIP，完成安全检查后安装。
